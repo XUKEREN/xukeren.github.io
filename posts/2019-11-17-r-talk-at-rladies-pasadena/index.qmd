@@ -12,12 +12,6 @@ categories:
 
 I shared my experience in building a personal website by using blogdown at [R-Ladies Pasadena November meetup](https://www.meetup.com/rladies-pasadena/events/265962563/). Thanks [Donna](https://twitter.com/CaltechChemLib) and [Zhi](https://twitter.com/zhiiiyang) for organizing this event.   
 
-Slides:  
-
-```{r, echo=FALSE}
-knitr::include_url('https://xukeren.rbind.io/slides/20191106/slides#1')
-```
-
 Handout: [<img src="../../imgs/link.png" style="min-width:5%;max-width:30px;" alt=" " />](https://xukeren.rbind.io/html/building-a-personal-website-using-blogdown)  
 
 Github repo: [<img src="../../imgs/github.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://github.com/XUKEREN/Building-a-Personal-Website-Using-Blogdown)  

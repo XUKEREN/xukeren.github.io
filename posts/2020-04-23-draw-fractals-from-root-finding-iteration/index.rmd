@@ -19,12 +19,6 @@ library(wesanderson)
   
 I gave a zoom talk about drawing fractals in R for the LA R Users April Meetup.     
 
-Slides:   
-
-```{r, echo=FALSE}
-knitr::include_url("https://xukeren.rbind.io/slides/20200423/slides#1")
-```
-
 YouTube recording: [<img src="../../imgs/link.png" style="min-width:5%;max-width:30px;" alt=" " />](https://www.youtube.com/watch?v=dFA4qsJuIVs)  
 
 Github repo: [<img src="../../imgs/github.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://github.com/XUKEREN/Draw-fractals-from-root-finding-iteration-in-R)

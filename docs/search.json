@@ -32,7 +32,7 @@
     "href": "posts/2020-04-23-draw-fractals-from-root-finding-iteration/index.html",
     "title": "Zoom Talk Draw Fractals from Root Finding Iterations",
     "section": "",
-    "text": "I gave a zoom talk about drawing fractals in R for the LA R Users April Meetup.\nSlides:\nYouTube recording:\nGithub repo:"
+    "text": "I gave a zoom talk about drawing fractals in R for the LA R Users April Meetup.\nYouTube recording:\nGithub repo:"
   },
   {
     "objectID": "posts/2020-04-23-draw-fractals-from-root-finding-iteration/index.html#samples-codes",
@@ -46,14 +46,14 @@
     "href": "posts/2019-11-17-r-talk-at-rladies-pasadena/index.html",
     "title": "R Talk RLadies Pasadena",
     "section": "",
-    "text": "I shared my experience in building a personal website by using blogdown at R-Ladies Pasadena November meetup. Thanks Donna and Zhi for organizing this event.\nSlides:\n\n\n\n\nHandout: \nGithub repo: \n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{xu2019,\n  author = {Keren Xu},\n  editor = {},\n  title = {R {Talk} {RLadies} {Pasadena}},\n  date = {2019-11-17},\n  url = {https://xukeren.github.io//posts/2019-11-17-r-talk-at-rladies-pasadena},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nKeren Xu. 2019. “R Talk RLadies Pasadena.” November 17,\n2019. https://xukeren.github.io//posts/2019-11-17-r-talk-at-rladies-pasadena."
+    "text": "I shared my experience in building a personal website by using blogdown at R-Ladies Pasadena November meetup. Thanks Donna and Zhi for organizing this event.\nHandout: \nGithub repo: \n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{xu2019,\n  author = {Keren Xu},\n  editor = {},\n  title = {R {Talk} {RLadies} {Pasadena}},\n  date = {2019-11-17},\n  url = {https://xukeren.github.io//posts/2019-11-17-r-talk-at-rladies-pasadena},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nKeren Xu. 2019. “R Talk RLadies Pasadena.” November 17,\n2019. https://xukeren.github.io//posts/2019-11-17-r-talk-at-rladies-pasadena."
   },
   {
     "objectID": "posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3/index.html",
     "href": "posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3/index.html",
     "title": "USCbiostats R Bootcamp for Scientific Computing 2020",
     "section": "",
-    "text": "I gave a workshop on Automatic Reports with RMarkdown at USCbiostats R Bootcamp for Scientific Computing 2020.\nSlides:\n\n\n\n\nGithub repo: \nYoutube recording: \nRelated tweets:\n\n\n{{% tweet \"1295802310740676608\" %}}\n\n\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{xu2020,\n  author = {Keren Xu},\n  editor = {},\n  title = {USCbiostats {R} {Bootcamp} for {Scientific} {Computing} 2020},\n  date = {2020-08-13},\n  url = {https://xukeren.github.io//posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nKeren Xu. 2020. “USCbiostats R Bootcamp for Scientific Computing\n2020.” August 13, 2020. https://xukeren.github.io//posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3."
+    "text": "I gave a workshop on Automatic Reports with RMarkdown at USCbiostats R Bootcamp for Scientific Computing 2020.\nGithub repo: \nYoutube recording: \nRelated tweets:\n\n\n{{% tweet \"1295802310740676608\" %}}\n\n\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{xu2020,\n  author = {Keren Xu},\n  editor = {},\n  title = {USCbiostats {R} {Bootcamp} for {Scientific} {Computing} 2020},\n  date = {2020-08-13},\n  url = {https://xukeren.github.io//posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nKeren Xu. 2020. “USCbiostats R Bootcamp for Scientific Computing\n2020.” August 13, 2020. https://xukeren.github.io//posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3."
   },
   {
     "objectID": "posts/2020-05-01-a-riddler-problem/index.html",
