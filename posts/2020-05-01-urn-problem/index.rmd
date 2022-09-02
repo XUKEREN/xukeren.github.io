@@ -1,0 +1,121 @@
+---
+title: Urn Problem
+description: "an idealized mental exercise"
+date: '2020-05-01'
+categories:
+  - notes
+  - r
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5b/Stochastik_Bayestheorem_Urnenversuch.png)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+```
+
+Load packages  
+```{r, message = FALSE, warning = FALSE}
+library(purrr)
+library(tidyverse)
+library(ggplot2)
+library(knitr)
+```
+
+Imaging we want to draw balls from an Urn. Balls are with different colors. Each color has a ‘weight’. When we draw a ball, a given ball is chosen with probability equal to (Weight of that ball)/(total weight of all balls in the Urn).        
+
+Now there are two red balls and one black ball in the urn. If we draw a nonblack ball, we return that ball to urn along with another ball with same color. If we draw a black ball, we return that ball to urn along with another ball that has a color that has not appeared in the urn. Repeat ball drawing process until we have 50 nonblack balls. We repeat this process several times.  Assuming all nonblack balls have weight one.  Now we want to know the expected number of differnet non black colors in the urn at the end, and the distribution of the numbers of nonblack colors at the end.     
+
+First, I wrote an urn function which takes four arguements. First one is the number of colors in the urn at start, second one is the initial number of balls in the urn, the third one represents the number of nonblack balls in the end, and the last one is the weight of the black ball.      
+
+Urn problem wiki page [link](https://en.wikipedia.org/wiki/Urn_problem)   
+
+```{r}
+# set the random number seed
+set.seed(16)
+
+# Now write a function to simulate the Urn model
+
+UrnSim <- function(NumberOfColorsInUrnAtStart, InitialNBalls, NonBlackBalls, weightofblackball) {
+  # set up the initial state of the urn
+  Urn <- rep(NA, NonBlackBalls + 1)
+  NumberOfColorsUsed <- NumberOfColorsInUrnAtStart
+
+  # we will start with three balls: two "red" and one "black"
+  # black = 0 and red = 1
+  Urn[1] <- 0
+  Urn[2] <- 1
+  Urn[3] <- 1
+
+  # set up a counter (NumberOfBalls) to keep track of how many balls we have
+  NumberOfBalls <- sum(Urn >= 0, na.rm = TRUE)
+
+  # set-up a loop that pulls a ball from the urn and takes the appropriate action
+  while (NumberOfBalls < (NonBlackBalls + 1)) {
+
+    # set the probability of draw each ball
+    myprob <- c(
+      weightofblackball / (weightofblackball + NumberOfBalls - 1),
+      rep(1 / (weightofblackball + NumberOfBalls - 1), NumberOfBalls - 1)
+    )
+
+    # draw a ball (WhichBall)
+    WhichBall <- Urn[sample(1:NumberOfBalls, size = 1, prob = myprob)]
+
+    # if draw a black ball
+    if (WhichBall == 0) {
+      WhichBall_nonblack <- Urn[sample(2:NumberOfBalls, 1)]
+      # return the ball and change the one's color
+      # the number of color that we have used should be increased
+      # but it does not necessarily mean that the number of colors in our urn has increased
+      NumberOfColorsUsed <- NumberOfColorsUsed + 1
+      # put back that ball with changed color
+      Urn[NumberOfBalls] <- NumberOfColorsUsed
+      # the number of balls did not change
+      NumberOfBalls <- NumberOfBalls
+    } else {
+      # draw a ball which is not black  (whichBall)
+      # return the ball and add another one like it
+      Urn[NumberOfBalls + 1] <- WhichBall
+      # increase the counter of how many balls we have in the urn
+      NumberOfBalls <- NumberOfBalls + 1
+    }
+  }
+  Numberofnonblackcolors <- length(unique(Urn)) - 1
+  Numberofballsofcommonestcolor <- max(table(Urn))
+  distribution <- table(Urn)
+  list(
+    Numberofnonblackcolors = Numberofnonblackcolors,
+    Numberofballsofcommonestcolor = Numberofballsofcommonestcolor,
+    distribution = distribution
+  )
+}
+
+# test the function
+UrnSim(2, 3, 50, 1)
+```
+
+
+```{r}
+weight <- c(1:10)
+
+mylist <- weight %>% map(function(x) {
+  NumTrials <- 10000 # how many urns to simulate
+  TrialResults <- rep(0, NumTrials) # somewhere to put the results
+  for (i in 1:length(TrialResults)) {
+    TrialResults[i] <- UrnSim(2, 3, 50, x)$Numberofnonblackcolors
+  }
+  mean(TrialResults)
+})
+
+df <- data.frame(weight = c(1:10), Numberofnonblackcolors = mylist %>% unlist())
+
+df %>% kable()
+
+ggplot(df, aes(x = weight, y = Numberofnonblackcolors)) +
+  geom_point() +
+  theme_minimal() +
+  geom_smooth(se = FALSE) +
+  scale_x_continuous(breaks = seq(1, 10, 1)) +
+  labs(title = "the expected number of different (non-black) colors in the Urn \n  at the end as a function of the weight of the black ball", x = "weight of black ball", y = "different (non-black) colors  \n (mean of 10000 simulations)")
+```

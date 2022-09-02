@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/2022-06-18-Investigating-DNA-methylation-as-a-mediator-of-genetic-risk-in-childhood-acute-lymphoblastic-Leukemia/index.html",
+      "/projects/2022-06-06-Accelerated-pigenetic-aging-in-newborns-with-Down-syndrome-paper/index.html",
+      "/projects/2021-12-11-whole-exome-sequencing-in-multiplex-families-to-identify-novel-aya-classical-hodgkin-lymphoma-predisposition-genes/index.html",
+      "/projects/2021-09-24-Accelerated-pigenetic-aging-in-newborns-with-Down-syndrome/index.html",
+      "/projects/2021-06-10-Personalized-Electronic-Health-Record–Integrated-Decision-Aid-for-Stroke-Prevention-in-Atrial-Fibrillation-A-Small-Cluster-Randomized-Trial-and-Qualitative-Analysis-of-Efficacy-and-Acceptability/index.html",
+      "/projects/2021-06-08-Disparities-in-acute-lymphoblastic-leukemia-risk-and-survival-across-the-lifespan-in-the-United-States-of-America/index.html",
+      "/projects/2021-05-21-Epigenetic-Biomarkers-of-Prenatal-Tobacco-Smoke-Exposure-Are-Associated-with-Gene-Deletions-in-Childhood-Acute-Lymphoblastic-Leukemia/index.html",
+      "/projects/2020-01-30-the-learning-curve-for-shared-decision-making-in-symptomatic-aortic-stenosis/index.html",
+      "/projects/2019-08-05-pragmatic-study-of-clinician-use-of-a-personalized-patient-decision-aid-integrated-into-the-electronic-health-record-an-8-year-experience/index.html",
+      "/projects/2019-03-26-timing-of-electronic-health-record-integrated-decision-aid-idea-for-stroke-prevention-in-atrial-fibrillation-matters/index.html",
+      "/projects/2018-04-24-does-a-telehealth-virtual-consult-including-referring-physicians-specialist-physicians-and-patients-increase-shared-decision-making-for-patients-with-heart-disease/index.html",
+      "/projects/2018-03-01-a-learning-curve-for-shared-decision-making-the-impact-of-physician-experience-on-decision-aid-efficacy-in-severe-aortic-stenosis/index.html",
+      "/projects/2017-Perceived-Future-Epilepsy-Risk-Among-Unaffected-Members-of-Multiplex-Epilepsy-Families/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3/index.html",
+      "/posts/2020-05-01-urn-problem/index.html",
+      "/posts/2020-05-01-test-random-pattern/index.html",
+      "/posts/2020-05-01-a-riddler-problem/index.html",
+      "/posts/2020-04-23-draw-fractals-from-root-finding-iteration/index.html",
+      "/posts/2020-02-02-golf-balls-simulation/index.html",
+      "/posts/2019-11-17-r-talk-at-rladies-pasadena/index.html"
+    ]
+  }
+]

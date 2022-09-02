@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Keren Xu"
+  site-url: https://xukeren.github.io/
+  repo-url: https://github.com/XUKEREN/xukeren.github.io
+  repo-actions: [edit, issue]
+  favicon: ./imgs/logo.png
+  open-graph: true
+  twitter-card:
+    creator: "@kerenxuepi"
+    card-style: summary_large_image
+  navbar:
+    search: true
+    pinned: true
+    logo: ./imgs/logo.png
+    right:
+      - href: index.qmd
+        text: about
+      - href: posts.qmd
+        text: posts
+      - href: projects.qmd
+        text: projects
+      - href: ./cv/cv.pdf
+        text: CV
+  page-footer:
+    border: false
+    center:
+      - text: © Keren Xu 2018-2022
+        href: index.qmd
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/kerenxu/
+      - text: Github
+        href: https://github.com/XUKEREN
+      - text: Twitter
+        href: https://twitter.com/kerenxuepi
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=pNidMJAAAAAJ&hl=en&oi=ao
+      - text: Photography
+        href: https://www.instagram.com/kerensnap/ 
+
+format:
+  html:
+    theme: ember.scss
+    css: styles.css
+    toc: true
+
+
+

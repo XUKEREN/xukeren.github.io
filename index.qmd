@@ -1,0 +1,26 @@
+---
+title: "about"
+image: ./imgs/headshot.jpg
+about:
+  template: solana
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kerenxu/
+    - icon: github
+      text: Github
+      href: https://github.com/XUKEREN
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/kerenxuepi
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=pNidMJAAAAAJ&hl=en&oi=ao
+    - icon: instagram
+      text: Photography
+      href: https://www.instagram.com/kerensnap/    
+---
+
+I am a Bioinformatics Scientist at Tempus Labs, with a PhD in Epidemiology from the Keck School of Medicine of University of Southern California, where I studied variant discovery in human DNA sequencing data and (epi)genome-wide association analysis to better understand the genetic and epigenetic risk factors of hematological malignancies, such as child acute lymphoblastic leukemia and Hodgkin’s lymphoma. I completed MPH degree in Epidemiology at the Columbia University Mailman School of Public Health and BS degree in Pharmacy in Shanghai, China. I am interested in genomics data science and data visualization. 

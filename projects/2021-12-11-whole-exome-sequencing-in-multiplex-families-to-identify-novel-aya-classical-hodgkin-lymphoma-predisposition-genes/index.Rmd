@@ -1,0 +1,10 @@
+---
+title: "Whole-Exome Sequencing in Multiplex Families to Identify Novel AYA Classical Hodgkin Lymphoma Predisposition Genes"
+description: "Poster presentation at the 63rd American Society of Hematology (ASH) annual meeting and exposition, December 11-14, 2021"
+date: '2021-11-25'
+categories: 
+  - projects
+  - poster
+---
+
+![](../../imgs/ash_2021_HL_poster.png)  

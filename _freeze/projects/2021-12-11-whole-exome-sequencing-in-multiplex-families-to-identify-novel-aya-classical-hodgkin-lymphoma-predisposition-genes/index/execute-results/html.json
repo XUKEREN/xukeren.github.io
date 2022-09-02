@@ -1,0 +1,14 @@
+{
+  "hash": "b6c01756c239f40ea252cf1fcddd3a55",
+  "result": {
+    "markdown": "---\ntitle: \"Whole-Exome Sequencing in Multiplex Families to Identify Novel AYA Classical Hodgkin Lymphoma Predisposition Genes\"\ndescription: \"Poster presentation at the 63rd American Society of Hematology (ASH) annual meeting and exposition, December 11-14, 2021\"\ndate: '2021-11-25'\ncategories: \n  - projects\n  - poster\n---\n\n\n![](../../imgs/ash_2021_HL_poster.png)  ",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

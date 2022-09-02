@@ -1,0 +1,19 @@
+---
+title: 'Disparities in acute lymphoblastic leukemia risk and survival across the lifespan in the United States of America' 
+description: "We review the racial/ethnic disparities in ALL incidence and outcomes, discuss how these vary across the age spectrum, and examine the potential causes of these disparities. In the United States, the incidence of ALL is highest in Hispanics/Latinos and lowest in Black individuals across all age groups."
+date: '2021-06-08'
+categories:
+  - projects
+  - paper
+---
+
+![](../../imgs/4107.fig.2.jpg)  
+
+[<img src="https://user-images.githubusercontent.com/37352799/44968016-258f3780-aefa-11e8-9a9a-f475f9029cc9.png" style="max-width:5%;min-width:40px;float:left;" alt="" />](https://oaepublishstorage.blob.core.windows.net/be27cd84-85ab-46a4-872d-91bfc97ce0d9/4107.pdf)    
+
+<br /><br />
+
+author: Keren Xu, Qianxi Feng, Joseph L Wiemels, Adam J de Smith    
+
+### Abstract:  
+Acute lymphoblastic leukemia (ALL) is the most common childhood cancer but is less frequent in adolescents and young adults (AYAs) and is rare among older adults. The 5-year survival of ALL is above 90% in children, but drops significantly in AYAs, and over half of ALL-related deaths occur in older adults. In addition to diagnosis age, the race/ethnicity of patients consistently shows association with ALL incidence and outcomes. Here, we review the racial/ethnic disparities in ALL incidence and outcomes, discuss how these vary across the age spectrum, and examine the potential causes of these disparities. In the United States, the incidence of ALL is highest in Hispanics/Latinos and lowest in Black individuals across all age groups. ALL incidence is rising fastest in Hispanics/Latinos, especially in AYAs. In addition, survival is worse in Hispanic/Latino or Black ALL patients compared to those who are non-Hispanic White. Different molecular subtypes of ALL show heterogeneities in incidence rates and survival outcomes across age groups and race/ethnicity. Several ALL risk variants are associated with genetic ancestry, and demonstrate different risk allele frequencies and/or effect sizes across populations. Moreover, non-genetic factors including socioeconomic status, access to care, and environmental exposures all likely influence the disparities in ALL risk and survival. Further studies are needed to investigate the potential joint effects and interactions of genetic and environmental risk factors. Improving survival in Hispanic/Latino and Black patients with ALL requires advances in precision medicine approaches, improved access to care, and inclusion of more diverse populations in future clinical trials.  

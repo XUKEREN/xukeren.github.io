@@ -1,0 +1,31 @@
+---
+title: 'USCbiostats R Bootcamp for Scientific Computing 2020'
+description: "a workshop on automatic reports with rmarkdown"
+date: '2020-08-13'
+categories:
+  - presentations
+  - r
+---
+
+![](https://raw.githubusercontent.com/USCbiostats/rbootcamp/master/fig/hex-stickers.png)
+
+
+
+I gave a workshop on **Automatic Reports with RMarkdown** at [USCbiostats R Bootcamp for Scientific Computing 2020](https://github.com/USCbiostats/rbootcamp).    
+
+Slides:    
+
+```{r, echo=FALSE}
+knitr::include_url('https://xukeren.rbind.io/slides/20200813/slides#1')
+```
+
+Github repo: [<img src="../../imgs/github.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://github.com/USCbiostats/rbootcamp/tree/master/day3)    
+
+Youtube recording: [<img src="../../imgs/youtube.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://www.youtube.com/watch?v=-dtI1LD4b-0)   
+
+Related tweets:      
+
+```{r, echo=FALSE}
+blogdown::shortcode('tweet', '1295802310740676608')  
+```
+
