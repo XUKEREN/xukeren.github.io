@@ -7,7 +7,7 @@ categories:
   - r
 ---
 
-![](https://raw.githubusercontent.com/XUKEREN/Draw-fractals-from-root-finding-iteration-in-R/master/README_files/figure-gfm/unnamed-chunk-7-9.png)
+![](https://raw.githubusercontent.com/XUKEREN/draw-fractals-from-root-finding-iteration-in-R/master/README_files/figure-gfm/unnamed-chunk-7-9.png)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -17,11 +17,13 @@ library(RColorBrewer)
 library(wesanderson)
 ```
   
-I gave a zoom talk about drawing fractals in R for the LA R Users April Meetup.     
+A zoom talk about drawing fractals in R for the LA R Users April Meetup.     
 
 YouTube recording: [<img src="../../imgs/link.png" style="min-width:5%;max-width:30px;" alt=" " />](https://www.youtube.com/watch?v=dFA4qsJuIVs)  
 
-Github repo: [<img src="../../imgs/github.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://github.com/XUKEREN/Draw-fractals-from-root-finding-iteration-in-R)
+Github repo: [<img src="../../imgs/github.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://github.com/XUKEREN/draw-fractals-from-root-finding-iteration-in-R)
+
+Slides: [link](https://xukeren.github.io/draw-fractals-from-root-finding-iteration-in-R/slides#1)
 
 ## Samples codes: 
 

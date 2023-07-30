@@ -7,11 +7,8 @@ categories:
   - r
 ---
 
-![](https://raw.githubusercontent.com/XUKEREN/Building-a-Personal-Website-Using-Blogdown/master/imgs/Rladies.jpeg)  
+![](https://raw.githubusercontent.com/XUKEREN/building-a-personal-website-using-blogdown/master/imgs/Rladies.jpeg)  
 
+Handout: [<img src="../../imgs/link.png" style="min-width:5%;max-width:30px;" alt=" " />](https://xukeren.github.io/building-a-personal-website-using-blogdown/)  
 
-I shared my experience in building a personal website by using blogdown at [R-Ladies Pasadena November meetup](https://www.meetup.com/rladies-pasadena/events/265962563/). Thanks [Donna](https://twitter.com/CaltechChemLib) and [Zhi](https://twitter.com/zhiiiyang) for organizing this event.   
-
-Handout: [<img src="../../imgs/link.png" style="min-width:5%;max-width:30px;" alt=" " />](https://xukeren.rbind.io/html/building-a-personal-website-using-blogdown)  
-
-Github repo: [<img src="../../imgs/github.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://github.com/XUKEREN/Building-a-Personal-Website-Using-Blogdown)  
+Github repo: [<img src="../../imgs/github.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://github.com/XUKEREN/building-a-personal-website-using-blogdown)  
