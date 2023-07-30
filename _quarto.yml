@@ -25,10 +25,12 @@ website:
         text: projects
       - href: ./cv/cv.pdf
         text: CV
+      - href: https://xukeren.github.io/phd-pipeline/
+        text: phd-pipeline
   page-footer:
     border: false
     center:
-      - text: © Keren Xu 2018-2022
+      - text: © Keren Xu 2018-2023
         href: index.qmd
       - text: LinkedIn
         href: https://www.linkedin.com/in/kerenxu/
@@ -39,13 +41,10 @@ website:
       - text: Google Scholar
         href: https://scholar.google.com/citations?user=pNidMJAAAAAJ&hl=en&oi=ao
       - text: Photography
-        href: https://www.instagram.com/kerensnap/ 
+        href: https://www.instagram.com/kerensnap/
 
 format:
   html:
     theme: ember.scss
     css: styles.css
     toc: true
-
-
-
