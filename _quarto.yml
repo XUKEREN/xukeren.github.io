@@ -30,7 +30,7 @@ website:
   page-footer:
     border: false
     center:
-      - text: © Keren Xu 2018-2023
+      - text: © Keren Xu 2018-2024
         href: index.qmd
       - text: LinkedIn
         href: https://www.linkedin.com/in/kerenxu/
@@ -40,8 +40,6 @@ website:
         href: https://twitter.com/kerenxuepi
       - text: Google Scholar
         href: https://scholar.google.com/citations?user=pNidMJAAAAAJ&hl=en&oi=ao
-      - text: Photography
-        href: https://www.instagram.com/kerensnap/
 
 format:
   html:
