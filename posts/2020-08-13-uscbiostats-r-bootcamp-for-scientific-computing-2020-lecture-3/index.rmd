@@ -15,6 +15,4 @@ I gave a workshop on **Automatic Reports with RMarkdown** at [USCbiostats R Boot
 
 Github repo: [<img src="../../imgs/github.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://github.com/USCbiostats/rbootcamp/tree/master/day3)    
 
-Youtube recording: [<img src="../../imgs/youtube.svg" style="min-width:5%;max-width:30px;" alt=" " />](https://www.youtube.com/watch?v=-dtI1LD4b-0)   
-
 Slides available here: [link](https://xukeren.github.io/usc-rbootcamp-day3-talk/day3_slides_20200813/slides#1)

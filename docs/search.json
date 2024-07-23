@@ -32,7 +32,7 @@
     "href": "posts/2020-04-23-draw-fractals-from-root-finding-iteration/index.html",
     "title": "Zoom Talk Draw Fractals from Root Finding Iterations",
     "section": "",
-    "text": "A zoom talk about drawing fractals in R for the LA R Users April Meetup.\nYouTube recording:\nGithub repo:\nSlides: link"
+    "text": "A zoom talk about drawing fractals in R for the LA R Users April Meetup.\nGithub repo:\nSlides: link"
   },
   {
     "objectID": "posts/2020-04-23-draw-fractals-from-root-finding-iteration/index.html#samples-codes",
@@ -53,7 +53,7 @@
     "href": "posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3/index.html",
     "title": "USCbiostats R Bootcamp for Scientific Computing 2020",
     "section": "",
-    "text": "I gave a workshop on Automatic Reports with RMarkdown at USCbiostats R Bootcamp for Scientific Computing 2020.\nGithub repo: \nYoutube recording: \nSlides available here: link\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{xu2020,\n  author = {Keren Xu},\n  editor = {},\n  title = {USCbiostats {R} {Bootcamp} for {Scientific} {Computing} 2020},\n  date = {2020-08-13},\n  url = {https://xukeren.github.io//posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nKeren Xu. 2020. “USCbiostats R Bootcamp for Scientific Computing\n2020.” August 13, 2020. https://xukeren.github.io//posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3."
+    "text": "I gave a workshop on Automatic Reports with RMarkdown at USCbiostats R Bootcamp for Scientific Computing 2020.\nGithub repo: \nSlides available here: link\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{xu2020,\n  author = {Keren Xu},\n  editor = {},\n  title = {USCbiostats {R} {Bootcamp} for {Scientific} {Computing} 2020},\n  date = {2020-08-13},\n  url = {https://xukeren.github.io//posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nKeren Xu. 2020. “USCbiostats R Bootcamp for Scientific Computing\n2020.” August 13, 2020. https://xukeren.github.io//posts/2020-08-13-uscbiostats-r-bootcamp-for-scientific-computing-2020-lecture-3."
   },
   {
     "objectID": "posts/2020-05-01-a-riddler-problem/index.html",
