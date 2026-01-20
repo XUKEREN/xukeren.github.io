@@ -30,7 +30,7 @@ website:
   page-footer:
     border: false
     center:
-      - text: © Keren Xu 2018-2025
+      - text: © Keren Xu 2018-2026
         href: index.qmd
       - text: LinkedIn
         href: https://www.linkedin.com/in/kerenxu/
