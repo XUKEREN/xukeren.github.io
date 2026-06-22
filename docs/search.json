@@ -163,9 +163,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about",
+    "title": "Keren Xu",
     "section": "",
-    "text": "I am a Bioinformatics Scientist at Tempus AI, with a PhD in Epidemiology from the Keck School of Medicine of University of Southern California, where I studied variant discovery in human DNA sequencing data and (epi)genome-wide association analysis to better understand the genetic and epigenetic risk factors of hematological malignancies, such as child acute lymphoblastic leukemia and Hodgkin’s lymphoma. I completed MPH degree in Epidemiology at the Columbia University Mailman School of Public Health and BS degree in Pharmacy in Shanghai, China. I am interested in genomics data science and data visualization."
+    "text": "I hold a PhD in Epidemiology from the Keck School of Medicine of the University of Southern California, where I studied variant discovery in human DNA sequencing data and (epi)genome-wide association analysis to better understand the genetic and epigenetic risk factors of hematologic malignancies, such as childhood acute lymphoblastic leukemia and Hodgkin’s lymphoma. Earlier, I earned an MPH in Epidemiology from Columbia University’s Mailman School of Public Health and a BS in Pharmaceutical Sciences in Shanghai, China.\nI care deeply about genomic data science and data visualization — finding clarity in large, messy biological datasets and communicating it well.\n\nResearch interests\n\nCancer genomics and next-generation sequencing analysis\nStatistical genetics: GWAS, EWAS, polygenic risk scores, and causal mediation\nReproducible bioinformatics pipelines and data visualization\n\nBrowse my projects and posts, or take a look at my CV."
   },
   {
     "objectID": "posts.html",
