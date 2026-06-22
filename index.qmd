@@ -33,4 +33,4 @@ I'm passionate about genomic data science and data visualization — finding cla
 - Statistical genetics: GWAS, EWAS, polygenic risk scores, and causal mediation
 - Reproducible bioinformatics pipelines and data visualization
 
-Browse my [projects](projects.qmd) and [posts](posts.qmd), or take a look at my [CV](./cv/cv.pdf).
+Browse my [projects](projects.qmd), or take a look at my [CV](./cv/cv.pdf).
