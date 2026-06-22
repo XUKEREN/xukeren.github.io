@@ -19,12 +19,8 @@ website:
     right:
       - href: index.qmd
         text: about
-      - href: posts.qmd
-        text: posts
       - href: projects.qmd
         text: projects
-      - href: ./cv/cv.pdf
-        text: CV
       - href: https://xukeren.github.io/phd-pipeline/
         text: phd-pipeline
   page-footer:
