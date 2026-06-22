@@ -25,7 +25,7 @@ Hi, I'm Keren — a Senior Bioinformatics Scientist at [Tempus AI](https://www.t
 
 I hold a PhD in Epidemiology from the Keck School of Medicine of the University of Southern California, where I studied variant discovery in human DNA sequencing data and (epi)genome-wide association analysis to better understand the genetic and epigenetic risk factors of hematologic malignancies, such as childhood acute lymphoblastic leukemia and Hodgkin's lymphoma. Earlier, I earned an MPH in Epidemiology from Columbia University's Mailman School of Public Health and a BS in Pharmaceutical Sciences in Shanghai, China.
 
-I'm passionate about genomic data science and data visualization — finding clarity in large, messy biological datasets and communicating it well.
+I'm passionate about genomic data science, data visualization, and precision medicine — finding clarity in large, messy biological datasets and communicating it well.
 
 ### Research interests
 
